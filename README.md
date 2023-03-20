@@ -1,8 +1,8 @@
-# Arregla mi CSS --222
+# Arregla mi CSS
 
 ## Instrucciones
 
-blabla
+
 1. Forkea el repo
 2. Clonar el repo
 3. Realizar los cambios demandados
