@@ -1,7 +1,7 @@
 
 body{
-    background-color:white;
-    font-family: 'Handlee', cursive; 
+    background-color:black;
+    font-family: 'Handlee', cursive;
     /* para encontrar la fuente tuve que ir al video */
 }
 
@@ -9,7 +9,7 @@ body{
     float: right;
     width: 60px;
     position: relative;
-    top: -115px;
+    top: -15px;
 }
 
 .post{
@@ -17,7 +17,7 @@ body{
     margin: 150px auto;
     width: 500px;
     padding: 10px;
-    height: 350px;
+    height: 323px;
 }
 
 .texto{
@@ -33,7 +33,9 @@ body{
 
 .formulario input[type=text]{
     font-family: 'Handlee', cursive; 
-    border: none;
+    border:solid;
+    border-color: transparent;
+    border-bottom-color: gray;
     color: gray;
     padding: 5px;
 }
@@ -43,6 +45,8 @@ input {
 }
 footer{
     clear:both;
+    display: flex;
+    justify-content: center;
 }
 
 footer input[type=submit]{
